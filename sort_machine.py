@@ -36,7 +36,6 @@ def main():
             print("Invalid sorting method")
             return
     
-    print(sorted_data)
     end = time.time()
     timeout = end - start
 
